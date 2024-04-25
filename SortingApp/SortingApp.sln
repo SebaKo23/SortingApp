@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingApp", "SortingApp.csproj", "{BC7C7D53-CACB-47F5-9134-656AB45FBCAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC7C7D53-CACB-47F5-9134-656AB45FBCAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC7C7D53-CACB-47F5-9134-656AB45FBCAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC7C7D53-CACB-47F5-9134-656AB45FBCAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC7C7D53-CACB-47F5-9134-656AB45FBCAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA73B8BA-AAD1-45D7-9817-241D2B49AC37}
+	EndGlobalSection
+EndGlobal
